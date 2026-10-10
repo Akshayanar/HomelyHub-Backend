@@ -127,8 +127,7 @@ Built as part of the **MERN Stack Internship (Batch B8)** at **WebStack Academy*
  
 ## 📬 Contact
  
-**Author:** [Your Name]
+**Author:** [Akshaya Nar ]
 **GitHub:** [@Akshayanar](https://github.com/Akshayanar)
  
 
-Claude finished the response
